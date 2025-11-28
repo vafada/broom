@@ -16,7 +16,7 @@
 //	BSP traversal, handling of LineSegs for rendering.
 //
 
-
+#include <stdlib.h>
 #include "m_bbox.h"
 #include "i_system.h"
 #include "r_main.h"

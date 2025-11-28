@@ -17,7 +17,7 @@
 //	Action functions for weapons.
 //
 
-
+#include <stdlib.h>
 #include "doomdef.h"
 #include "d_event.h"
 #include "d_items.h"

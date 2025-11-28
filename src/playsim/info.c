@@ -20,6 +20,7 @@
 
 
 // Data.
+#include <stdlib.h>
 #include "sounds.h"
 #include "m_fixed.h"
 

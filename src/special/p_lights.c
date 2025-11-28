@@ -17,7 +17,7 @@
 //	Muzzle flash?
 //
 
-
+#include <stdlib.h>
 #include "p_lights.h"
 
 #include "z_zone.h"
