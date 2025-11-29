@@ -17,6 +17,7 @@
 //
 
 
+#include <stdlib.h>
 #include "p_plats.h"
 
 #include "i_system.h"

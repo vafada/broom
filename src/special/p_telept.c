@@ -16,7 +16,7 @@
 //	Teleportation.
 //
 
-
+#include <stdlib.h>
 #include "p_telept.h"
 
 #include "doomstat.h"

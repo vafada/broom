@@ -16,7 +16,7 @@
 //	LineOfSight/Visibility checks, uses REJECT Lookup Table.
 //
 
-
+#include <stdlib.h>
 #include "p_local.h"
 
 #include "doomstat.h"

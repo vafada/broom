@@ -16,7 +16,7 @@
 //	Floor animation: raising stairs.
 //
 
-
+#include <stdlib.h>
 #include "p_floor.h"
 
 #include "z_zone.h"
